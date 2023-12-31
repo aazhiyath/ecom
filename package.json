@@ -1,6 +1,7 @@
 {
-  "name": "11_ecommerce_web",
+  "name": "ecom",
   "private": true,
+  "homepage": "",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
